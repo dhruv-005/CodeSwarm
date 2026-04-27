@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+venv_codeswarm/
+
+# API Keys — Never commit
+.env
+
+# Auto-generated output files
+workspace/*.csv
+workspace/*.png
+workspace/*.pdf
+workspace/*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+*.log
+
+# pyenv
+.python-version
