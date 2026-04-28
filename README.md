@@ -70,8 +70,9 @@
 ---
 
 ## 🚀 Project Overview
-
 <div align="center">
+
+<div style="overflow-x: auto; white-space: pre; margin: 20px 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); max-width: 100%;">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -81,6 +82,8 @@
 ║   CodeSwarm       →  4 agents, sequential pipeline, real tools   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 </div>
 
