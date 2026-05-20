@@ -616,7 +616,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ```
 MIT License — Free to use, modify, and distribute with attribution.
-Copyright (c) 2024 Dhruv Sonani
+Copyright (c) 2026 Dhruv Sonani
 ```
 
 ---
