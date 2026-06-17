@@ -37,7 +37,7 @@
 
 ```
 ╔══════════════╗    ╔══════════════════╗    ╔══════════════╗    ╔══════════════╗
-║  🧠 Planner  ║ ──▶║ 🔧 Data Engineer  ║ ──▶║ 📊 Analyst   ║ ──▶║  ✅ QA Lead  ║
+║  🧠 Planner  ║ ──▶║ 🔧 Data Engineer ║ ──▶║ 📊 Analyst   ║ ──▶║  ✅ QA Lead  ║
 ║              ║    ║                  ║    ║              ║    ║              ║
 ║  3-Step Plan ║    ║   stock_data.csv ║    ║  chart.png   ║    ║ Final Report ║
 ╚══════════════╝    ╚══════════════════╝    ╚══════════════╝    ╚══════════════╝
@@ -123,10 +123,10 @@ Rather than relying on a single monolithic AI call, CodeSwarm orchestrates a **t
 ┌──────────────────────────────────────────────────────────────────────┐
 │                    CODESWARM FEATURE SET                             │
 ├──────────────────────────────────────────────────────────────────────┤
-│  🤖  4 Specialized AI Agents    🔥  Groq LPU Ultra-Fast Inference     │
-│  📡  Real-Time Market Data      📊  Publication-Quality Charts        │
-│  🔗  Sequential Pipeline        🛠️  Tool-Augmented Agents             │
-│  🛡️  Absolute Path Safety       ✅  Automated QA Verification         │
+│  🤖  4 Specialized AI Agents    🔥  Groq LPU Ultra-Fast Inference    │
+│  📡  Real-Time Market Data      📊  Publication-Quality Charts       │
+│  🔗  Sequential Pipeline        🛠️  Tool-Augmented Agents            │
+│  🛡️  Absolute Path Safety       ✅  Automated QA Verification        │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -155,7 +155,7 @@ Rather than relying on a single monolithic AI call, CodeSwarm orchestrates a **t
 ╠══════════════════════════════════════════════════════════╣
 ║  🎭  CrewAI 1.13.0        →  Multi-Agent Orchestration   ║
 ║  🔀  LiteLLM              →  Model Provider Abstraction  ║
-║  ⚡  Groq LPU API         →  Ultra-Fast Inference        ║
+║  ⚡  Groq LPU API         →  Ultra-Fast Inference         ║
 ║  🧠  Llama 4 Scout 17B    →  Agent Reasoning & Planning  ║
 ║  📡  yFinance             →  Real-Time Market Data       ║
 ║  📊  Matplotlib + Pandas  →  Charts & Data Processing    ║
@@ -215,7 +215,7 @@ Rather than relying on a single monolithic AI call, CodeSwarm orchestrates a **t
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
 ║  ┌──────────────┐    ┌──────────────────┐    ┌──────────────┐    ┌────────┐  ║
-║  │  🧠 Planner  │───▶│ 🔧 Data Engineer  │───▶│ 📊 Analyst   │───▶│ ✅ QA  │  ║
+║  │  🧠 Planner  │───▶│ 🔧 Data Engineer │───▶│ 📊 Analyst   │───▶│ ✅ QA  │  ║
 ║  └──────────────┘    └──────────────────┘    └──────────────┘    └────────┘  ║
 ║         │                     │                      │                │      ║
 ║         ▼                     ▼                      ▼                ▼      ║
@@ -281,7 +281,7 @@ Each agent follows the **ReAct** (Reasoning + Acting) loop internally:
  ╠════════════════════════════════════════════════════╣
  ║                                                    ║
  ║  1. 💭 THINK   →  Analyze the task description.    ║
- ║  2. ⚡ ACT     →  Call a tool or form a response.  ║
+ ║  2. ⚡ ACT     →  Call a tool or form a response.   ║
  ║  3. 👁️ OBSERVE →  Read and process tool output.    ║
  ║  4. 🔁 REPEAT  →  Loop until task is complete.     ║
  ║  5. 📤 OUTPUT  →  Return final answer to crew.     ║
